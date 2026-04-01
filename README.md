@@ -17,4 +17,4 @@ An industrial robotic solution for 3-axis item handling. This project focuses on
 * **Architecture:** Modular Function Blocks (FBs) designed for reusable motion profiles and Global Variable Lists (GVLs) for system-wide signals.
 
 ## 📸 In Action
-![System Demo]()
+![System Demo](Media/Pick_Place_FactoryIO_Codesys.gif)
